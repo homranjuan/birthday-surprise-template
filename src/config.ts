@@ -17,8 +17,8 @@ export const config = {
 
   /* Button Labels */
   buttons: {
-    hero: "Ready for a little surprise?", // hero/landing button
-    soloGallery: "Want to see more?", // solo gallery button
+    hero: "อยากเห็นความน่ารักของแฟนเรารึยัง!?", // hero/landing button
+    soloGallery: "ยังไม่หมดหรอกนะ", // solo gallery button
   },
 
   /* Together Gallery (Optional) */
@@ -30,15 +30,15 @@ export const config = {
 
   /* Birthday Message: Each string is a paragraph */
   message: [
-    "สุขสันต์วันครบรอบนะ!!!",
+    "สุขสันต์วันครบรอบนะที่รัก!!!",
     "",
     "ขอบคุณที่อยู่ด้วยกันมา 1 ปีแล้ว!! ",
     "",
     "เป็นปีที่มีความสุขมากเลย ขอบคุณที่เราได้ใช้ชีวิตสนุก ๆ ด้วยกัน อยู่กับคุณรู้สึกทุกวันไม่มีเบื่อเลย",
     "",
-    "ขอบคุณที่รักและหวังดีกับเรา เราจะตอบแทนความรักคุณให้ดีที่สุด",
+    "ขอบคุณที่รักและหวังดีกับเรา เราจะตอบแทนความรักคุณให้ดีที่สุดเองง ปีนี้มาสนุกด้วยกันอีกนะะ",
     "",
-    "MAlHOM",
+    "น้องหอม",
   ],
 
   /* Theme Colors - Change these to customize the entire website theme! */
@@ -51,8 +51,8 @@ export const config = {
 
   /* Typing Animation Text (shown on the start screen) */
   typingText: {
-    first: "Hey, wait a second!",
-    second: "This website is only for someone special.",
+    first: "สวัสดีค้าบ นี่เป็นหนังสือพูดได้",
+    second: "หนังสือเล่มนี้จะรวบรวมโกลดิ้วและมอหอมใน 1 ปีที่ผ่านมาา",
   },
 };
 
