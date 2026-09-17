@@ -7,11 +7,11 @@
 
 export const config = {
   /* Name Verification Gate */
-  recipientName: "love", // required name to enter
-  nameHint: '4 letters, starts with "L"', // hint on wrong name
+  recipientName: "DEW", // required name to enter
+  nameHint: '3 letters, starts with "D"', // hint on wrong name
 
   /* Section Headings */
-  soloGalleryTitle: "✨ My Birthday Girl ✨", // solo gallery title
+  soloGalleryTitle: "✨ My little DEW ✨", // solo gallery title
   messageTitle: "To My Favorite Person", // letter section title
   footerText: "Made with 💗 just for you", // footer text
 
@@ -30,15 +30,15 @@ export const config = {
 
   /* Birthday Message: Each string is a paragraph */
   message: [
-    "Happy Birthday, my love!",
+    "สุขสันต์วันครบรอบนะ!!!",
     "",
-    "I hope today is filled with joy, laughter, and all the little moments that make you smile. As you step into this new year, may it bring exciting opportunities, meaningful memories, and the confidence to chase everything you dream of.",
+    "ขอบคุณที่อยู่ด้วยกันมา 1 ปีแล้ว!! ",
     "",
-    "You have so much ahead of you, and I hope you never stop believing in yourself and all that you’re capable of. May this year be kind to you, rewarding, and full of reasons to celebrate.",
+    "เป็นปีที่มีความสุขมากเลย ขอบคุณที่เราได้ใช้ชีวิตสนุก ๆ ด้วยกัน อยู่กับคุณรู้สึกทุกวันไม่มีเบื่อเลย",
     "",
-    "Wishing you a beautiful birthday and an even more amazing year to come.",
+    "ขอบคุณที่รักและหวังดีกับเรา เราจะตอบแทนความรักคุณให้ดีที่สุด",
     "",
-    "- With love,",
+    "MAlHOM",
   ],
 
   /* Theme Colors - Change these to customize the entire website theme! */
